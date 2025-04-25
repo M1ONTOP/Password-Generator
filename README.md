@@ -1,2 +1,2 @@
 # Password-Generator
-Simple Password Generator in python
+Title is self explanatory.
